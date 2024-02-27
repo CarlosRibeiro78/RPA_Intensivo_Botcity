@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: RPA_Intensivo_Botcity
+Version: 1.0
+Summary: Primeiro_Projeto
+Description-Content-Type: text/markdown
+Requires-Dist: botcity-framework-web<1.0,>=0.7.0
+Requires-Dist: botcity-maestro-sdk<1.0,>=0.2.0
+
+# Treinamento
+
+Primeiro_Projeto
+

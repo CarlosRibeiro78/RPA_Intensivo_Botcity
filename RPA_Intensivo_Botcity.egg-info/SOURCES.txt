@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+RPA_Intensivo_Botcity/__init__.py
+RPA_Intensivo_Botcity/__main__.py
+RPA_Intensivo_Botcity/bot.py
+RPA_Intensivo_Botcity.egg-info/PKG-INFO
+RPA_Intensivo_Botcity.egg-info/SOURCES.txt
+RPA_Intensivo_Botcity.egg-info/dependency_links.txt
+RPA_Intensivo_Botcity.egg-info/requires.txt
+RPA_Intensivo_Botcity.egg-info/top_level.txt
+RPA_Intensivo_Botcity/resources/start.png
